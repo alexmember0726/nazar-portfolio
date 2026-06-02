@@ -1,0 +1,1 @@
+otpauth://totp/GitHub:alexmember0726?secret=TXE75QWE4ITT6QFQ&issuer=GitHub
